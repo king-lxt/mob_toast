@@ -1,0 +1,13 @@
+{
+  "name": "mob_toast",
+  "version": "1.0.6",
+  "description": "移动端弹框提示",
+  "main": "index.js",
+  "keywords": [
+    "toast,mobile"
+  ],
+  "homepage": "https://github.com/toastjs/toast",
+  "author": "lxt",
+  "license": "ISC",
+  "email": "front_end_job@aliyun.com"
+}
